@@ -10,7 +10,7 @@ class Matrix
 private:
 	int a[n][n];
 	int column_sum[n];
-// 	int i, j, k, c, product; // i - row, j - column, c - temporary variable
+ 	int i, j, k, c, product; // i - row, j - column, c - temporary variable
 public:
 	void matrix_input();
 	void matrix_output();
